@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Green Lazer
   m_EditorClassIdentifier: 
   aName: Pink Lazer
-  aSprite: {fileID: 21300000, guid: 0c6271a290ef75b4c97d58746c86c5b8, type: 3}
+  aSprite: {fileID: 21300000, guid: 9866a92691696b346901281f2b329034, type: 3}
   aSound: {fileID: 8300000, guid: 5897aeed9b676024fbb8c694b421a861, type: 3}
   aBaseCoolDown: 2
   gunDamage: 3

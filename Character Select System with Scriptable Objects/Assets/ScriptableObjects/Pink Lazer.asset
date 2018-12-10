@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Pink Lazer
   m_EditorClassIdentifier: 
   aName: Pink Lazer
-  aSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  aSprite: {fileID: 21300000, guid: 9866a92691696b346901281f2b329034, type: 3}
   aSound: {fileID: 8300000, guid: 81a6153000036344e98c354b326e080c, type: 3}
   aBaseCoolDown: 1
   gunDamage: 1
