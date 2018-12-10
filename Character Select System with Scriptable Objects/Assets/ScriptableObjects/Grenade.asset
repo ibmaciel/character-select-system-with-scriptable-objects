@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05f50106d42141749ba92868eb7cc8fd, type: 3}
+  m_Name: Grenade
+  m_EditorClassIdentifier: 
+  aName: Grenade
+  aSprite: {fileID: 21300000, guid: 0c6271a290ef75b4c97d58746c86c5b8, type: 3}
+  aSound: {fileID: 8300000, guid: 42e65e088b3f4374e851b8dbd38f3df9, type: 3}
+  aBaseCoolDown: 3
+  projectileForce: 500
+  projectile: {fileID: 54657448008242136, guid: 4b99c7701b32b3c4689e421f41fb6ad0,
+    type: 2}

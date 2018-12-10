@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d177354b3757d439e662a1a527289c, type: 3}
+  m_Name: Pink Lazer
+  m_EditorClassIdentifier: 
+  aName: Pink Lazer
+  aSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  aSound: {fileID: 8300000, guid: 81a6153000036344e98c354b326e080c, type: 3}
+  aBaseCoolDown: 1
+  gunDamage: 1
+  weaponRange: 50
+  hitForce: 100
+  laserColor: {r: 0.9254298, g: 0, b: 1, a: 1}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57522eaca22f30c40905f24a5a4133fb, type: 3}
+  m_Name: Big Danny
+  m_EditorClassIdentifier: 
+  characterName: Big Danny
+  startingHp: 200
+  characterAbilities:
+  - {fileID: 11400000, guid: 44e0c4b05f43d1b46ac85e07b85dfd53, type: 2}
+  - {fileID: 11400000, guid: 8b43afda054fee945b57c6401220a1a7, type: 2}
